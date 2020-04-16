@@ -13,5 +13,6 @@
 ----
 
 ## Список завдань
-1. 
+1. Обчислити значення функції Аккермана для двох невідʼємних цілих чисел n та m, де:
+<img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/images/accermann.jpg" width="30%"/>
 
