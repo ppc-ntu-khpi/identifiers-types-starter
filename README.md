@@ -40,3 +40,5 @@
 22. Перетворити задане число з двійкової системи на [код Грея](https://ru.wikipedia.org/wiki/%D0%97%D0%BB%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE)
 23. Розрахувати [число долі](https://sergeiyurev.com/chislo-sudby-v-numerologii/) за заданою датою народження 
 24. Розрахувати поточне (на сьогоднішній день) значення [біоритмів людини](http://uchinfo.com.ua/inform/excel/bioritm.htm) за заданою датою народження 
+
+[![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter)
