@@ -1,6 +1,6 @@
-package test;
+//package test;
 
-import domain.Exercise;
+//import domain.Exercise;
 
 public class TestResult {
 

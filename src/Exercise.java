@@ -1,4 +1,4 @@
-package domain;
+//package domain;
 
 public class Exercise {
     public static float Calculate(int R){
